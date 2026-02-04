@@ -12,8 +12,8 @@
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-2 col-lg-offset-2">
           <h2>About Me</h2>
-          <p>I’m a computer scientist who studies category theory and logic. I am currently working with Elena Botoeva at the University of Kent on a monadic style calculus embedding of a query language for schemaless databases while I'm finish writting up my PhD on the foundations of graded monads under the supervision of Dominic Orchard,.</p>
-          <p>.</p>
+          <p>I’m a computer scientist who studies category theory and logic. I am currently working with Elena Botoeva at the University of Kent on a monadic style calculus embedding of a query language for schemaless databases while I'm finish writting up my PhD on the foundations of graded monads under the supervision of Dominic Orchard.</p>
+          <p></p>
 	        <p>Not My CV is <a href="cv.pdf">here</a>.</p>
           <p>I'm also on <a rel="me" href="https://types.pl/@tori">Mastodon</a>.</p>
         </div>

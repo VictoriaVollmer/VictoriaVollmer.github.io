@@ -12,19 +12,20 @@
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-2 col-lg-offset-2">
           <h2>About Me</h2>
-          <p>I’m a computer scientist who studies category theory and logic. I'm currently wrapping up my PhD at the University of Kent under the supervision of Dominic Orchard.</p>
+          <p>I’m a computer scientist who studies category theory and logic. I am currently working with Elena Botoeva at the University of Kent on a monadic style calculus embedding of a query language for schemaless databases while I'm finish writting up my PhD on the foundations of graded monads under the supervision of Dominic Orchard,.</p>
           <p>.</p>
 	        <p>Not My CV is <a href="cv.pdf">here</a>.</p>
-          <p>Someone who is not me is also on <a rel="me" href="https://types.pl/@vollmerm">Mastodon</a>.</p>
+          <p>I'm also on <a rel="me" href="https://types.pl/@tori">Mastodon</a>.</p>
         </div>
         <div class="col-sm-12 col-md-8 col-lg-6">
         <h2>Publications</h2>
-        <p>Replace with my paper David Castro-Perez, Marco Paviotti, and Michael Vollmer. <strong>Program Optimisations via Hylomorphisms for Extraction of Executable Code.</strong> <em>International Conference on Interactive Theorem Proving.</em> (ITP 2025). [<a href="itp25.pdf">PDF</a>]</p>
+        <p>Victoria Vollmer, Danielle Marshall, Harley Eades III, Dominic Orchard. <strong>A Mixed Linear and Graded Logic: Proofs, Terms, and Models.</strong> <em>33rd EACSL Annual Conference on Computer Science Logic.</em> (CSL 2025). [arxiv](https://arxiv.org/abs/2401.17199)
+			</p>
                </div>
       </div>
     </div>
   </body>
   <footer>
-    <p>Contact me via email at mike [at] recurial.com</p>
+    <p>Contact me via email at torivollmer5 [at] gmail.com</p>
   </footer>
 </html>
